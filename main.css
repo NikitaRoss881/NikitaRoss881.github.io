@@ -1,0 +1,11 @@
+ul {
+    position: absolute;
+    bottom: 20px; /* Помещаем вниз страницы с отступом 20px */
+    width: 100%; /* Занимает всю ширину страницы */
+    text-align: center; /* Центрируем ссылки */
+}
+
+ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
